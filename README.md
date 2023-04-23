@@ -12,3 +12,5 @@ The data includes:
 * 74,258 products
 * 260 users with > 50 reviews
 
+### Approach 
+<p>Here, we perform sentiment analysis on a dataset of product reviews using the CLIP (Contrastive Language-Image Pre-Training) model. The code uses the pre-trained CLIP model provided by OpenAI and fine-tunes it on a dataset of product reviews. For more detailed explaination check out my article, <strong>Unleashing the Potential of Zero-Shot Classification with Contrastive Learning Using CLIP</strong> on <a href="https://medium.com/@shashankv.vats/unleashing-the-potential-of-zero-shot-classification-with-contrastive-learning-1d2567ea1b13">Medium</a>.
